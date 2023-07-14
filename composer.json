@@ -1,6 +1,6 @@
 {
     "name": "bellows-app/plugin-sdk",
-    "description": "An intelligent command line utility that sits on top of Laravel Forge to get your site up and running with all of your third party integrations configured at the speed of light.",
+    "description": "An SDK to help you develop plugins for Bellows.",
     "keywords": [
         "laravel",
         "console",
